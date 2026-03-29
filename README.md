@@ -10,11 +10,13 @@ This project analyzes historical transactional data from Bright Coffee Shop to g
 Dataset Description
 
 The dataset contains transactional sales data from three Bright Coffee Shop store locations:
+
 Lower Manhattan
 Hell’s Kitchen
 Astoria
 
 The dataset covers the period:
+
 1 January 2023 – 30 June 2023
 
 The dataset includes:
@@ -78,8 +80,8 @@ Automate daily sales reporting and dashboards.
 
 Tools Used
 
-Databricks SQL
-Microsoft Excel
-PowerPoint
-Miro
+Databricks SQL,
+Microsoft Excel,
+PowerPoint,
+Miro,
 GitHub
