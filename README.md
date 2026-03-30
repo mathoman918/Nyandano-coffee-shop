@@ -11,8 +11,8 @@ Dataset Description
 
 The dataset contains transactional sales data from three Bright Coffee Shop store locations:
 
-Lower Manhattan
-Hell’s Kitchen
+Lower Manhattan,
+Hell’s Kitchen,
 Astoria
 
 The dataset covers the period:
@@ -21,14 +21,14 @@ The dataset covers the period:
 
 The dataset includes:
 
-Transaction ID
-Transaction date and time
-Store location
-Product category
-Product type
-Product detail
-Unit price
-Quantity sold
+Transaction ID,
+Transaction date and time,
+Store location,
+Product category,
+Product type,
+Product detail,
+Unit price,
+Quantity sold,
 Project Objectives
 
 The main objectives of this project were to:
@@ -51,13 +51,13 @@ Aggregated revenue by product, store, and time intervals.
 
 Key Business Metrics Calculated
 
-Total Revenue
-Total Units Sold
-Number of Sales Transactions
-Revenue by Store Location
-Revenue by Product Category
-Revenue by Product Type
-Peak Sales Time
+Total Revenue,
+Total Units Sold,
+Number of Sales Transactions,
+Revenue by Store Location,
+Revenue by Product Category,
+Revenue by Product Type,
+Peak Sales Time,
 Monthly Revenue Trend
 
 Key Insights
