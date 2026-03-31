@@ -11,9 +11,9 @@ This project analyzes historical transactional data from Bright Coffee Shop to g
 
 The dataset contains transactional sales data from three Bright Coffee Shop store locations:
 
-•Lower Manhattan
-•Hell’s Kitchen
-•Astoria
+* Lower Manhattan
+* Hell’s Kitchen
+* Astoria
 
 ### The dataset covers the period:
 
